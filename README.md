@@ -30,8 +30,7 @@ The **Attendance Management System** is a Python-based application that leverage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/attendance-management-system.git
-cd attendance-management-system
+https://github.com/chandrikan2304/Attendance-Management-System-using-Face-Recognition.git
 ```
 
 ### 2. Install Required Packages
@@ -45,7 +44,7 @@ pip install -r requirements.txt
 - Update the database connection details in the code as needed.
 
 ### 4. Download Haarcascade
-Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository](https://github.com/opencv/opencv) and place it in the project directory.
+Download the Haarcascade XML file for face detection  and place it in the project directory.
 
 ---
 
