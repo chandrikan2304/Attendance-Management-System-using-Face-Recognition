@@ -221,7 +221,7 @@ def manually_fill():
             def attf():
                 import subprocess
                 subprocess.Popen(
-                    r'explorer /select,"C:\Users\Pragya Singh\PycharD:\Company\Edunet Foundation - Pune\Project\OneDrive_2024-10-01\Attendance Management System using Face Recognition\AttendancemProjects\Attendace_management_system\Attendance\Manually Attendance\-------Check atttendance-------"')
+                    r'explorer /select,"C:/Users/Chandrika/Downloads/P2-Attendance-Management-System-using-Face-Recognition-main/Attendance/Computer Engineering_2024-11-26_14-03-10.csv"')
 
             attf = tk.Button(MFW,  text="Check Sheets", command=attf, fg="white", bg="black",
                              width=12, height=1, activebackground="white", font=('times', 14, ' bold '))
